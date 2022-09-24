@@ -1,0 +1,99 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#ana{
+    width: 99vw;
+    height: 200vh;
+    background-color: darkgray;
+}
+
+#nav{
+    height: 15vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo{
+    height: 10vh;
+    width: 20vh;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.5vh;
+    margin: 1.2vw;
+    border-radius: 10px;
+
+}
+#contact{
+    height: 10vh;
+    width: 20vh;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.5vh;
+    margin: 1.2vw;
+    border-radius: 10px;
+
+}
+#bod{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#bg-image{
+    background-color: black;
+    height: 70vh;
+    width: 100%;
+    opacity: 90%;
+    background: url(https://cdn.motor1.com/images/mgl/JOOv36/s3/pagani_utopia_13.jpg)no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#bg-text{
+    width: 100%;
+    height: 40vh;
+    background-color: rgb(34, 34, 34);
+    opacity: 90%;
+    text-align: center;
+    color: white;
+}
+#boşluk{
+    margin-top: 100px;
+}
+
+#altplan{
+display: flex;
+align-items: center;
+justify-content: center;
+flex-wrap: wrap;
+
+}
+
+#pagani{
+height: 70vh;
+width: 950px;
+display: flex;
+justify-content: center;
+align-items: center;
+background: url(https://cdn.motor1.com/images/mgl/AkkeK2/s1/pagani_utopia_04.jpg)no-repeat;
+
+}
+#zf-text{
+    width: 950px;
+    height: 70vh;
+    color: black;
+    text-align: center;
+    background-color: whitesmoke;
+  
+
+}
